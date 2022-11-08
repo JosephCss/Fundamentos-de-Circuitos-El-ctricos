@@ -261,6 +261,11 @@ https://www.youtube.com/watch?v=lzG0-nd9UXc&ab_channel=JosephFrancisco
 
 El presente deber logro mejorar mi resolución de ejercicios de notación científica, ademas de ayudarme a la comprension de los conceptos de voltaje, corriente y carga , también fue de gran ayuda para ampliar mi interpretación de los resultados que obtenía en cada ejercicio agregando que me permitió desarrollar la habilidad de convertir los resultados en diferentes equivalentes para poder compáralos y usar el de más facilidad operativa.
 
+7.	BIBLIOGRAFÍA
+
+Floyd, T. L. (2007). PRINCIPIOS DE CIRCUITOS ELÉCTRICOS. México: PEARSON EDUCACIÓN.
+
+
 
 
 
