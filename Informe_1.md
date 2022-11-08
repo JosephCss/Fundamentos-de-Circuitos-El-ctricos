@@ -1,4 +1,4 @@
-Informe Tarea 
+##Informe Tarea 
 1.	Objetivo General 
 Resolver ejercicios de notación científica, transformaciones de cantidades y unidades 
 2.	Objetivos 
