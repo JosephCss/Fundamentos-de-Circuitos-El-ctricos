@@ -256,7 +256,7 @@ Recorremos el 7 hacia la izquierda
 
 ![image](https://user-images.githubusercontent.com/86561660/200684527-dda1961c-1bea-4203-8ea3-036ce190da78.png)
 
-la carga va del polo positivo al polo negativo
+La carga va del polo positivo al polo negativo
 
 33. En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo. Determine cuál es este circuito. 
 
