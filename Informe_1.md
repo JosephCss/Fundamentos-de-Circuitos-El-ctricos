@@ -5,7 +5,7 @@
 Interpretar la notición científica en los ejercicios de transformaciones 
 Expresar los resultados obtenidos en las diferentes equivalencias del sistema de unidades 
  Contrastar las relaciones que tiene el voltaje, corriente y resistencia 
-##.	Marco Teórico
+## 3.Marco Teórico
 ![Picture2](https://user-images.githubusercontent.com/86561660/200671565-e4b5d9e7-dc70-4813-b98b-916110845e6c.png)
 
 ![image](https://user-images.githubusercontent.com/86561660/200676760-4d666e2e-6099-4fa3-8b9e-679db5f7bd21.png)
@@ -140,6 +140,7 @@ Observamos los ceros para poder guiarnos y recorerlos deacuredo a como se necesi
 
 ![image](https://user-images.githubusercontent.com/86561660/200681621-b25d95d6-9ce6-4a02-a2af-fa3441481428.png)
 
+Rrecoremos el 7 hacia la izquierda
 
 ![image](https://user-images.githubusercontent.com/86561660/200679992-b1aff0f6-537a-474e-8847-b70a0a56b312.png)
 
@@ -271,7 +272,7 @@ fuente en la figura 2-72.
 
 ![image](https://user-images.githubusercontent.com/86561660/200687068-c2ff7026-212c-48b4-b1df-b193acb86177.png)
 
-el amperimetro nos permite ver hacia donde se dirije la corriente por ende deberemos medirlo en dicha posicion porque los resistores son un elemento importante para conocer esta medida y de igual forma el voltaje es el flujo de electrones y lo colocamos ahi para por no haber un elemento que se interponga a la misma .
+El amperimetro nos permite ver hacia donde se dirije la corriente por ende deberemos medirlo en dicha posicion porque los resistores son un elemento importante para conocer esta medida y de igual forma el voltaje es el flujo de electrones y lo colocamos ahi para por no haber un elemento que se interponga a la misma .
 
 39. En la figura 2-73, ¿cuánto voltaje indica cada medidor cuando el interruptor está en la posición 1?
 ¿En la posición 2?
