@@ -30,7 +30,7 @@ Colocamos nuestra base como 10 y dependiendo hacia donde se quiera rrecorer los 
 
 5)Exprese cada uno de los números siguientes en notación científica:
 
-Observamos los ceros para poder guiarnos y recorerlos deacuredo a como se necesite para una mayor facilidad de comprension)
+
 
 
 
@@ -38,6 +38,8 @@ Observamos los ceros para poder guiarnos y recorerlos deacuredo a como se necesi
 
 
 ![image](https://user-images.githubusercontent.com/86561660/200678638-b44afd34-d4c9-4c79-a7b3-5c92694bad7a.png)
+
+Observamos los ceros para poder guiarnos y recorerlos deacuredo a como se necesite para una mayor facilidad de comprension)
 
 7) . Exprese cada uno de los números siguientes como un número decimal regular:
 
