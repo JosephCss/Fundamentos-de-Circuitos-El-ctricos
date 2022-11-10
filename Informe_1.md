@@ -11,21 +11,29 @@ Expresar los resultados obtenidos en las diferentes equivalencias del sistema de
 ![image](https://user-images.githubusercontent.com/86561660/200676760-4d666e2e-6099-4fa3-8b9e-679db5f7bd21.png)
 
 ## 4.	Explicación y resolución de ejercicios o problemas
-1)  Exprese cada uno de los números siguientes en notación científica:
+1) Exprese cada uno de los números siguientes en notación científica:
 
 ![image](https://user-images.githubusercontent.com/86561660/200680922-6bdd8a08-9b0e-4c8d-bd45-ac1fa6d47419.png)
 
 ![image](https://user-images.githubusercontent.com/86561660/200677951-2d4b7c56-b328-489d-a29b-379af12b0f91.png)
 
 Observamos los ceros para poder guiarnos y recorerlos deacuredo a como se necesite para una mayor facilidad de comprension
+
 3) Exprese cada uno de los números siguientes en notación científica:
 
 ![image](https://user-images.githubusercontent.com/86561660/200680980-7e673ac0-dc03-4504-8551-2b6ee0e76474.png)
 
+Colocamos nuestra base como 10 y dependiendo hacia donde se quiera rrecorer los ceros ya sea a la derecha o
+ la izquierda se colocara el exponente 
 
 ![image](https://user-images.githubusercontent.com/86561660/200678422-1d90f87e-7cae-4365-8c31-27100ebb8599.png)
 
 5)Exprese cada uno de los números siguientes en notación científica:
+
+Observamos los ceros para poder guiarnos y recorerlos deacuredo a como se necesite para una mayor facilidad de comprension)
+
+![image](https://user-images.githubusercontent.com/86561660/201117848-6a108b17-3ec7-431b-85a0-5afb5fb906c0.png)
+
 
 ![image](https://user-images.githubusercontent.com/86561660/200681007-2a3290ae-606e-4156-8793-87b5289fdb7f.png)
 
@@ -34,6 +42,8 @@ Observamos los ceros para poder guiarnos y recorerlos deacuredo a como se necesi
 
 7) . Exprese cada uno de los números siguientes como un número decimal regular:
 
+(Cuando se convierte una unidad grande en otra más pequeña, el punto decimal se mueve hacia la derecha)
+
 ![image](https://user-images.githubusercontent.com/86561660/200681042-e2f67360-c75c-4e3f-b828-d8ff7f73ee19.png)
 
 
@@ -41,7 +51,10 @@ Observamos los ceros para poder guiarnos y recorerlos deacuredo a como se necesi
 
 9) Sume los números siguientes:
 
+
 ![image](https://user-images.githubusercontent.com/86561660/200681070-7131fb3a-04fb-43d1-a581-3eb9ad4f2509.png)
+
+Cuando se convierte una unidad pequeña en otra más grande, el punto decimal se mueve hacia la izquierda. 
 
 
 ![image](https://user-images.githubusercontent.com/86561660/200678869-048626d0-d58e-414f-b483-b33cf94c6b95.png)
@@ -50,6 +63,7 @@ Observamos los ceros para poder guiarnos y recorerlos deacuredo a como se necesi
 
 ![image](https://user-images.githubusercontent.com/86561660/200681101-e41d27bd-275e-4dd0-a6a9-a086e059c627.png)
 
+Cuando se convierte una unidad grande en otra más pequeña, el punto decimal se mueve hacia la derecha
 
 ![image](https://user-images.githubusercontent.com/86561660/200678943-e613b01a-710f-46c8-9dc0-6d199ca0826f.png)
 
@@ -58,6 +72,8 @@ Observamos los ceros para poder guiarnos y recorerlos deacuredo a como se necesi
 
 ![image](https://user-images.githubusercontent.com/86561660/200681130-b0c2d774-dc65-441d-b1ca-3adc0ebf0775.png)
 
+Colocamos nuestra base como 10 y dependiendo hacia donde se quiera rrecorer los ceros ya sea a la derecha o
+ la izquierda se colocara el exponente 
 
 ![image](https://user-images.githubusercontent.com/86561660/200679398-3bd77b47-9c05-4c02-9eec-fc2c5c1585a7.png)
 
@@ -66,6 +82,8 @@ Observamos los ceros para poder guiarnos y recorerlos deacuredo a como se necesi
 
 ![image](https://user-images.githubusercontent.com/86561660/200681173-d535014f-c455-420f-a770-79ab8679a359.png)
 
+Colocamos nuestra base como 10 y dependiendo hacia donde se quiera rrecorer los ceros ya sea a la derecha o
+ la izquierda se colocara el exponente 
 
 ![image](https://user-images.githubusercontent.com/86561660/200679488-2156d6f3-ee63-43c4-8daf-f8c42ad06fdf.png)
 
@@ -73,12 +91,16 @@ Observamos los ceros para poder guiarnos y recorerlos deacuredo a como se necesi
 
 ![image](https://user-images.githubusercontent.com/86561660/200681216-176418a8-e90c-45c7-b8b4-9f9d3e367424.png)
 
+Cuando se convierte una unidad pequeña en otra más grande, el punto decimal se mueve hacia la izquierda. 
+
 
 ![image](https://user-images.githubusercontent.com/86561660/200679545-fd4b5eca-e3f1-41d5-91aa-9852861b200e.png)
 
 19) Divida los números siguientes y exprese cada resultado en notación de ingeniería:
 
 ![image](https://user-images.githubusercontent.com/86561660/200681253-0893d18c-c24d-43f8-a1af-a271e5e06f1f.png)
+
+Observamos los ceros para poder guiarnos y recorerlos deacuredo a como se necesite para una mayor facilidad de comprension
 
 ![image](https://user-images.githubusercontent.com/86561660/200679663-ad2a74f5-4aa0-42af-a62b-00bfb2d46968.png)
 
@@ -88,6 +110,8 @@ Observamos los ceros para poder guiarnos y recorerlos deacuredo a como se necesi
 
 23) Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
 
+Observamos los ceros para poder guiarnos y recorerlos deacuredo a como se necesite para una mayor facilidad de comprension
+
 ![image](https://user-images.githubusercontent.com/86561660/200681363-7da3ffcf-1f6b-40be-9aec-f6cdb09f6762.png)
 
 ![image](https://user-images.githubusercontent.com/86561660/200679807-36c91e34-f85a-4b3f-963b-d5ff71507ea4.png)
@@ -95,6 +119,9 @@ Observamos los ceros para poder guiarnos y recorerlos deacuredo a como se necesi
 25) Exprese cada cantidad convirtiendo el prefijo métrico en una potencia de 10:
 
 ![image](https://user-images.githubusercontent.com/86561660/200681456-06af742d-848c-4bbe-a292-76716724fcc1.png)
+
+Cuando se convierte una unidad pequeña en otra más grande, el punto decimal se mueve hacia la izquierda. 
+
 
 ![image](https://user-images.githubusercontent.com/86561660/200679859-9fd8cb00-9e5a-4f8e-8d05-8fa5389a077f.png)
 
