@@ -254,8 +254,8 @@ cada una de las siguientes cantidades. Incluya la función y el intervalo apropi
 
 
 
-5.	VIDEO 
-https://www.youtube.com/watch?v=lzG0-nd9UXc&ab_channel=JosephFrancisco
+5.	VIDEO [
+https://www.youtube.com/watch?v=lzG0-nd9UXc&ab_channel=JosephFrancisco](https://youtu.be/cygHgrb6DGk)
 
 6.	CONCLUSIONES
 
