@@ -43,7 +43,7 @@ Observamos los ceros para poder guiarnos y recorerlos deacuredo a como se necesi
 
 7) . Exprese cada uno de los números siguientes como un número decimal regular:
 
-(Cuando se convierte una unidad grande en otra más pequeña, el punto decimal se mueve hacia la derecha)
+Cuando se convierte una unidad grande en otra más pequeña, el punto decimal se mueve hacia la derecha
 
 ![image](https://user-images.githubusercontent.com/86561660/200681042-e2f67360-c75c-4e3f-b828-d8ff7f73ee19.png)
 
@@ -141,7 +141,7 @@ Observamos los ceros para poder guiarnos y recorerlos deacuredo a como se necesi
 
 ![image](https://user-images.githubusercontent.com/86561660/200681621-b25d95d6-9ce6-4a02-a2af-fa3441481428.png)
 
-Rrecoremos el 7 hacia la izquierda
+
 
 ![image](https://user-images.githubusercontent.com/86561660/200679992-b1aff0f6-537a-474e-8847-b70a0a56b312.png)
 
@@ -248,6 +248,8 @@ Usamos la paleta de colores como referencia
 
 
 ![image](https://user-images.githubusercontent.com/86561660/200684439-5a29d46d-e32e-4876-8e0e-16a541fcc6c0.png)
+
+Rrecoremos el 7 hacia la izquierda
 
 31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.
 
