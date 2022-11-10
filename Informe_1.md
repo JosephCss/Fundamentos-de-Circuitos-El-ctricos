@@ -32,7 +32,6 @@ Colocamos nuestra base como 10 y dependiendo hacia donde se quiera rrecorer los 
 
 Observamos los ceros para poder guiarnos y recorerlos deacuredo a como se necesite para una mayor facilidad de comprension)
 
-![image](https://user-images.githubusercontent.com/86561660/201117848-6a108b17-3ec7-431b-85a0-5afb5fb906c0.png)
 
 
 ![image](https://user-images.githubusercontent.com/86561660/200681007-2a3290ae-606e-4156-8793-87b5289fdb7f.png)
