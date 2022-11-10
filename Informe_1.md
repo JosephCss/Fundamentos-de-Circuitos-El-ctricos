@@ -175,7 +175,7 @@ La fuente de potencia convierte voltaje de ca en voltaje de cd
 
 Usamos la paleta de colores como referencia 
 
-![image](https://user-images.githubusercontent.com/86561660/200683912-66b92cea-5a3f-4120-bc99-7bc8cb134126.png)
+![image](https://user-images.githubusercontent.com/86561660/201053047-50d4e5a3-602f-4903-98b3-ac0d352d76a4.png)
 
 25. Determine las bandas de color para cada uno de los siguientes resistores de 4 bandas. Asuma que cada resistor tiene una tolerancia del 5 por ciento.
 0.47 kohms 270 kohms 5.1 Mohms 
@@ -213,16 +213,24 @@ Doble vía-doble polo (DPDT, por sus siglas en inglés) El interruptor DPDT perm
 37. Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de 
 fuente en la figura 2-72.
 
+![image](https://user-images.githubusercontent.com/86561660/201059760-0a0ebaa6-2fea-472d-9b3f-8bff1f2a809b.png)
+
 ![image](https://user-images.githubusercontent.com/86561660/200687068-c2ff7026-212c-48b4-b1df-b193acb86177.png)
 
 39. En la figura 2-73, ¿cuánto voltaje indica cada medidor cuando el interruptor está en la posición 1?
 ¿En la posición 2?
+
+![image](https://user-images.githubusercontent.com/86561660/201060069-66c36090-2a22-49b9-9038-74ac3136bb43.png)
+
 
 Posicion 1:V1=0v , v2=vs
 Posicion 2:v1=vs, v2=0v
 
 41. En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a 
 través del resistor y la que sale de la batería
+
+![image](https://user-images.githubusercontent.com/86561660/201060238-83d14f74-22b6-41cf-8110-5aad3fc4a837.png)
+
 
 ![image](https://user-images.githubusercontent.com/86561660/200687572-b6a4c4fc-adf7-4072-b5f0-283f015bbfb7.png)
 
