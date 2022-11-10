@@ -249,7 +249,7 @@ Usamos la paleta de colores como referencia
 
 ![image](https://user-images.githubusercontent.com/86561660/200684439-5a29d46d-e32e-4876-8e0e-16a541fcc6c0.png)
 
-Rrecoremos el 7 hacia la izquierda
+Recorremos el 7 hacia la izquierda
 
 31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.
 
