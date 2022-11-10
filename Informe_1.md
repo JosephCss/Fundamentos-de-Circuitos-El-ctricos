@@ -3,8 +3,11 @@
  Resolver ejercicios relacionados con notación científica, voltaje, corriente y resistencia
 ## 2.	Objetivos 
 Interpretar la notición científica en los ejercicios de transformaciones 
+
 Expresar los resultados obtenidos en las diferentes equivalencias del sistema de unidades 
+
  Contrastar las relaciones que tiene el voltaje, corriente y resistencia 
+ 
 ## 3.Marco Teórico
 ![Picture2](https://user-images.githubusercontent.com/86561660/200671565-e4b5d9e7-dc70-4813-b98b-916110845e6c.png)
 
