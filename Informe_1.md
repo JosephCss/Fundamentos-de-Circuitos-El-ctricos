@@ -108,6 +108,9 @@ Observamos los ceros para poder guiarnos y recorerlos deacuredo a como se necesi
 
 ![image](https://user-images.githubusercontent.com/86561660/200679749-d4cf68ef-7305-4a1e-b984-7c028c5a3d25.png)
 
+Colocamos nuestra base como 10 y dependiendo hacia donde se quiera rrecorer los ceros ya sea a la derecha o
+ la izquierda se colocara el exponente
+
 23) Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
 
 Observamos los ceros para poder guiarnos y recorerlos deacuredo a como se necesite para una mayor facilidad de comprension
@@ -131,11 +134,16 @@ Cuando se convierte una unidad pequeña en otra más grande, el punto decimal se
 
 ![image](https://user-images.githubusercontent.com/86561660/200679949-5db805c7-fac6-4066-a16e-18db519c8483.png)
 
+Observamos los ceros para poder guiarnos y recorerlos deacuredo a como se necesite para una mayor facilidad de comprension
+
 29) Sume las siguientes cantidades:
 
 ![image](https://user-images.githubusercontent.com/86561660/200681621-b25d95d6-9ce6-4a02-a2af-fa3441481428.png)
 
+
 ![image](https://user-images.githubusercontent.com/86561660/200679992-b1aff0f6-537a-474e-8847-b70a0a56b312.png)
+
+Cuando se convierte una unidad pequeña en otra más grande, el punto decimal se mueve hacia la izquierda.
 
 # Capitulo 2
 1)
@@ -143,7 +151,7 @@ Cuando se convierte una unidad pequeña en otra más grande, el punto decimal se
 
 (Nos guiamos en nuestra ecuacion de carga que es q=#e-/6,25*10 e-/c)
 
-3)¿Cuántos coulombs de carga poseen 50 * 10^31 electrones?
+3) ¿Cuántos coulombs de carga poseen 50 * 10^31 electrones?
 
 ![image](https://user-images.githubusercontent.com/86561660/200682626-cce28d01-54c0-4720-96c2-925ec94fd2c1.png)
 
@@ -152,6 +160,7 @@ Cuando se convierte una unidad pequeña en otra más grande, el punto decimal se
 5) Determine el voltaje en cada uno de los siguientes casos: (a) 10 J/C (b) 5 J/2 C (c) 100 J/25 C
 
 Como tenemos la ecuación reemplazos los valores que nos dan de los julios en numerador y los coulumbs en la parte inferior 
+
 
 ![image](https://user-images.githubusercontent.com/86561660/200682800-1f19d169-be8e-4f56-885c-14c7eced5db8.png)
 
@@ -175,6 +184,8 @@ Usamos la formula de corriente
 
 13. ¿Cuántos coulombs pasan por un punto en 0.1 s cuando la corriente es de 1.5 A? 
 
+Uusamos las ecucaiones de carga electrica y carga y despejamos las incognitas 
+
 ![image](https://user-images.githubusercontent.com/86561660/200688685-e6711997-182f-498c-a392-dc21db7970b3.png)
 
 
@@ -188,6 +199,7 @@ Usamos la formula de conductancia
 
 Fuente de potencia de cd, celda solar, generador, batería
 
+son las que nos ayudan a que los electrones se movilizen, es decir tienen carga electrica 
 
 19. ¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje? 
 
@@ -196,11 +208,19 @@ La fuente de potencia convierte voltaje de ca en voltaje de cd
 
 21. Determine los valores de resistencia y tolerancia para los siguientes resistores de 4 bandas
 
+
+
 ![image](https://user-images.githubusercontent.com/86561660/200683791-abebd296-6846-4547-bd0c-ffc6bd7a5fb7.png)
+
+![image](https://user-images.githubusercontent.com/86561660/201122206-14ef0cfc-b9c7-428b-937e-fb3f9c92b437.png)
+
 
 23. Determine las bandas de color para cada uno de los siguientes valores de 4 bandas y 5% de tolerancia: 330Ჲ 2.2 kᲲ 56kᲲ  100kᲲ  y 39kᲲ  
 
 Usamos la paleta de colores como referencia 
+
+![image](https://user-images.githubusercontent.com/86561660/201122206-14ef0cfc-b9c7-428b-937e-fb3f9c92b437.png)
+
 
 ![image](https://user-images.githubusercontent.com/86561660/201053047-50d4e5a3-602f-4903-98b3-ac0d352d76a4.png)
 
@@ -209,6 +229,9 @@ Usamos la paleta de colores como referencia
 
 ![image](https://user-images.githubusercontent.com/86561660/200688800-ae8916ca-b0f8-4dd2-8486-067e15ba04eb.png)
 
+![image](https://user-images.githubusercontent.com/86561660/201122206-14ef0cfc-b9c7-428b-937e-fb3f9c92b437.png)
+
+
 27. Determine las bandas de color para cada uno de los siguientes resistores de 5 bandas. Asuma que cada resistor tiene tolerancia del 1 por ciento
 
 
@@ -216,16 +239,20 @@ Usamos la paleta de colores como referencia
 
 ![image](https://user-images.githubusercontent.com/86561660/200684382-4da2c898-9afc-49ae-a46d-8280da125d5c.png)
 
+![image](https://user-images.githubusercontent.com/86561660/201122206-14ef0cfc-b9c7-428b-937e-fb3f9c92b437.png)
+
+
 29. ¿Cuál es la resistencia indicada por 4K7? 
 
 
 ![image](https://user-images.githubusercontent.com/86561660/200684439-5a29d46d-e32e-4876-8e0e-16a541fcc6c0.png)
 
-31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2. 
-
+31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.
 
 
 ![image](https://user-images.githubusercontent.com/86561660/200684527-dda1961c-1bea-4203-8ea3-036ce190da78.png)
+
+la carga va del polo positivo al polo negativo
 
 33. En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo. Determine cuál es este circuito. 
 
@@ -244,6 +271,8 @@ fuente en la figura 2-72.
 
 ![image](https://user-images.githubusercontent.com/86561660/200687068-c2ff7026-212c-48b4-b1df-b193acb86177.png)
 
+el amperimetro nos permite ver hacia donde se dirije la corriente por ende deberemos medirlo en dicha posicion porque los resistores son un elemento importante para conocer esta medida y de igual forma el voltaje es el flujo de electrones y lo colocamos ahi para por no haber un elemento que se interponga a la misma .
+
 39. En la figura 2-73, ¿cuánto voltaje indica cada medidor cuando el interruptor está en la posición 1?
 ¿En la posición 2?
 
@@ -252,6 +281,9 @@ fuente en la figura 2-72.
 
 Posicion 1:V1=0v , v2=vs
 Posicion 2:v1=vs, v2=0v
+
+En las diferentes posiciones hay paso de energia para uno y para el otro no y asi viceversa.
+
 
 41. En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a 
 través del resistor y la que sale de la batería
