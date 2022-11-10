@@ -156,7 +156,7 @@ Cuando se convierte una unidad pequeña en otra más grande, el punto decimal se
 
 ![image](https://user-images.githubusercontent.com/86561660/200682626-cce28d01-54c0-4720-96c2-925ec94fd2c1.png)
 
-(Nos guiamos en nuestra ecuacion de carga que es q=#e-/6,25*10 e-/c)
+Nos guiamos en nuestra ecuacion de carga que es q=#e-/6,25*10 e-/c
 
 5) Determine el voltaje en cada uno de los siguientes casos: (a) 10 J/C (b) 5 J/2 C (c) 100 J/25 C
 
@@ -200,7 +200,7 @@ Usamos la formula de conductancia
 
 Fuente de potencia de cd, celda solar, generador, batería
 
-son las que nos ayudan a que los electrones se movilizen, es decir tienen carga electrica 
+Son las que nos ayudan a que los electrones se movilizen, es decir tienen carga electrica 
 
 19. ¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje? 
 
