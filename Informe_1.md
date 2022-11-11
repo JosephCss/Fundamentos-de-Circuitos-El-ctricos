@@ -1,4 +1,5 @@
 # Informe Tarea 
+NOMBRE : ALMACHI JOSEPH 
 ## 1.	Objetivo General 
  Resolver ejercicios relacionados con notación científica, voltaje, corriente y resistencia
 ## 2.	Objetivos 
